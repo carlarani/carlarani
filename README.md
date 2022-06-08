@@ -5,12 +5,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlarani&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+<p>
+- 🌱 I’m currently learning front-end
+- 😄 Pronouns: she/her
+  </p>
 
-###- 🌱 I’m currently learning front-end
-###- 😄 Pronouns: she/her
-
-
-  ##
   
   <div> 
     <a href="https://api.whatsapp.com/send?phone=5511987772151" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
