@@ -1,16 +1,17 @@
 ### Hi there 😁 I'm Carla Rani
+
+
+- 🌱 I’m currently learning front-end
+- 😄 Pronouns: she/her
+
+
+
 <div align="center">
   <a href="https://github.com/carlarani">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlarani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlarani&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
-<p>
-- 🌱 I’m currently learning front-end
-- 😄 Pronouns: she/her
-  </p>
-
-  
+   
   <div> 
     <a href="https://api.whatsapp.com/send?phone=5511987772151" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
     <a href = "mailto:carla.rani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
