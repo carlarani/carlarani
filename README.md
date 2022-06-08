@@ -6,8 +6,8 @@
 </div>
   
 
-##- 🌱 I’m currently learning front-end
-##- 😄 Pronouns: she/her
+###- 🌱 I’m currently learning front-end
+###- 😄 Pronouns: she/her
 
 
   ##
