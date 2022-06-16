@@ -1,7 +1,7 @@
 ### Hi there 😁 I'm Carla Rani
 
 
-- 🌱 I’m currently learning front-end
+- 🌱 I’m currently learning C#
 - 😄 Pronouns: she/her
 
 
