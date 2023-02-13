@@ -3,7 +3,7 @@
 
 
 - 🎖️ Dev Web Full Stack graduated in Jan/2023 (600hr) at Ada Tech.
-- 🖥️ I’m currently working with SQL Server, C#, JS e Angular. 
+- 🖥️ I’m currently working with MSSQL, C#, JS e Angular. 
 - 🌱 Learning more about Jenkins and Docker. 
 - 😄 Pronouns: she/her.
 
