@@ -6,6 +6,7 @@
 - 🖥️ I’m currently working with MSSQL, C#, JS e Angular. 
 - 🌱 Learning more about Jenkins and Docker. 
 - 😄 Pronouns: she/her.
+- 🛤️Portfólio: https://carlarani.netlify.app/
 
 
 
