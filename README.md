@@ -3,8 +3,8 @@
 
 
 - 🎖️ Dev Web Full Stack graduated in Jan/2023 (600hr) at Ada Tech.
-- 🖥️ I’m currently working with MSSQL, C#, JS e Angular. 
-- 🌱 Learning more about Java. 
+- 🖥️ I’m currently working with MSSQL, C#, JS e Angular.
+- 🌱 Majoring in Information Systems - Learning more about Java. 
 - 😄 Pronouns: she/her.
 - 🛤️Portfólio: https://carlarani.netlify.app/
 
